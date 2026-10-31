@@ -1,0 +1,98 @@
+[
+  {
+    "file": "apartment-01.jpg",
+    "category": "apartment"
+  },
+  {
+    "file": "apartment-02.jpg",
+    "category": "apartment"
+  },
+  {
+    "file": "apartment-03.jpg",
+    "category": "apartment"
+  },
+  {
+    "file": "apartment-04.jpg",
+    "category": "apartment"
+  },
+  {
+    "file": "apartment-05.jpg",
+    "category": "apartment"
+  },
+  {
+    "file": "apartment-06.jpg",
+    "category": "apartment"
+  },
+  {
+    "file": "villa-03.jpg",
+    "category": "villa"
+  },
+  {
+    "file": "villa-04.jpg",
+    "category": "villa"
+  },
+  {
+    "file": "villa-05.jpg",
+    "category": "villa"
+  },
+  {
+    "file": "villa-renovation-01.jpg",
+    "category": "villa"
+  },
+  {
+    "file": "rowhouses-02.jpg",
+    "category": "rowhouses"
+  },
+  {
+    "file": "rowhouses-03.jpg",
+    "category": "rowhouses"
+  },
+  {
+    "file": "block-03.jpg",
+    "category": "block"
+  },
+  {
+    "file": "block-04.jpg",
+    "category": "block"
+  },
+  {
+    "file": "block-05.jpg",
+    "category": "block"
+  },
+  {
+    "file": "block-06.jpg",
+    "category": "block"
+  },
+  {
+    "file": "block-07.jpg",
+    "category": "block"
+  },
+  {
+    "file": "block-08.jpg",
+    "category": "block"
+  },
+  {
+    "file": "retail-01.jpg",
+    "category": "retail"
+  },
+  {
+    "file": "office-02.jpg",
+    "category": "office"
+  },
+  {
+    "file": "warehouse-02.jpg",
+    "category": "warehouse"
+  },
+  {
+    "file": "hotel-02.jpg",
+    "category": "hotel"
+  },
+  {
+    "file": "shopping-center-01.jpg",
+    "category": "retail"
+  },
+  {
+    "file": "industrial-01.jpg",
+    "category": "industrial"
+  }
+]
