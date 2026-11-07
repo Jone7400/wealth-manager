@@ -1,98 +1,242 @@
 [
   {
-    "file": "apartment-01.jpg",
-    "category": "apartment"
+    "id": 1,
+    "image": "images/properties/property-01.webp"
   },
   {
-    "file": "apartment-02.jpg",
-    "category": "apartment"
+    "id": 2,
+    "image": "images/properties/property-02.webp"
   },
   {
-    "file": "apartment-03.jpg",
-    "category": "apartment"
+    "id": 3,
+    "image": "images/properties/property-03.webp"
   },
   {
-    "file": "apartment-04.jpg",
-    "category": "apartment"
+    "id": 4,
+    "image": "images/properties/property-04.webp"
   },
   {
-    "file": "apartment-05.jpg",
-    "category": "apartment"
+    "id": 5,
+    "image": "images/properties/property-05.webp"
   },
   {
-    "file": "apartment-06.jpg",
-    "category": "apartment"
+    "id": 6,
+    "image": "images/properties/property-06.webp"
   },
   {
-    "file": "villa-03.jpg",
-    "category": "villa"
+    "id": 7,
+    "image": "images/properties/property-07.webp"
   },
   {
-    "file": "villa-04.jpg",
-    "category": "villa"
+    "id": 8,
+    "image": "images/properties/property-08.webp"
   },
   {
-    "file": "villa-05.jpg",
-    "category": "villa"
+    "id": 9,
+    "image": "images/properties/property-09.webp"
   },
   {
-    "file": "villa-renovation-01.jpg",
-    "category": "villa"
+    "id": 10,
+    "image": "images/properties/property-10.webp"
   },
   {
-    "file": "rowhouses-02.jpg",
-    "category": "rowhouses"
+    "id": 11,
+    "image": "images/properties/property-11.webp"
   },
   {
-    "file": "rowhouses-03.jpg",
-    "category": "rowhouses"
+    "id": 12,
+    "image": "images/properties/property-12.webp"
   },
   {
-    "file": "block-03.jpg",
-    "category": "block"
+    "id": 13,
+    "image": "images/properties/property-13.webp"
   },
   {
-    "file": "block-04.jpg",
-    "category": "block"
+    "id": 14,
+    "image": "images/properties/property-14.webp"
   },
   {
-    "file": "block-05.jpg",
-    "category": "block"
+    "id": 15,
+    "image": "images/properties/property-15.webp"
   },
   {
-    "file": "block-06.jpg",
-    "category": "block"
+    "id": 16,
+    "image": "images/properties/property-16.webp"
   },
   {
-    "file": "block-07.jpg",
-    "category": "block"
+    "id": 17,
+    "image": "images/properties/property-17.webp"
   },
   {
-    "file": "block-08.jpg",
-    "category": "block"
+    "id": 18,
+    "image": "images/properties/property-18.webp"
   },
   {
-    "file": "retail-01.jpg",
-    "category": "retail"
+    "id": 19,
+    "image": "images/properties/property-19.webp"
   },
   {
-    "file": "office-02.jpg",
-    "category": "office"
+    "id": 20,
+    "image": "images/properties/property-20.webp"
   },
   {
-    "file": "warehouse-02.jpg",
-    "category": "warehouse"
+    "id": 21,
+    "image": "images/properties/property-21.webp"
   },
   {
-    "file": "hotel-02.jpg",
-    "category": "hotel"
+    "id": 22,
+    "image": "images/properties/property-22.webp"
   },
   {
-    "file": "shopping-center-01.jpg",
-    "category": "retail"
+    "id": 23,
+    "image": "images/properties/property-23.webp"
   },
   {
-    "file": "industrial-01.jpg",
-    "category": "industrial"
+    "id": 24,
+    "image": "images/properties/property-24.webp"
+  },
+  {
+    "id": 25,
+    "image": "images/properties/property-25.webp"
+  },
+  {
+    "id": 26,
+    "image": "images/properties/property-26.webp"
+  },
+  {
+    "id": 27,
+    "image": "images/properties/property-27.webp"
+  },
+  {
+    "id": 28,
+    "image": "images/properties/property-28.webp"
+  },
+  {
+    "id": 29,
+    "image": "images/properties/property-29.webp"
+  },
+  {
+    "id": 30,
+    "image": "images/properties/property-30.webp"
+  },
+  {
+    "id": 31,
+    "image": "images/properties/property-31.webp"
+  },
+  {
+    "id": 32,
+    "image": "images/properties/property-32.webp"
+  },
+  {
+    "id": 33,
+    "image": "images/properties/property-33.webp"
+  },
+  {
+    "id": 34,
+    "image": "images/properties/property-34.webp"
+  },
+  {
+    "id": 35,
+    "image": "images/properties/property-35.webp"
+  },
+  {
+    "id": 36,
+    "image": "images/properties/property-36.webp"
+  },
+  {
+    "id": 37,
+    "image": "images/properties/property-37.webp"
+  },
+  {
+    "id": 38,
+    "image": "images/properties/property-38.webp"
+  },
+  {
+    "id": 39,
+    "image": "images/properties/property-39.webp"
+  },
+  {
+    "id": 40,
+    "image": "images/properties/property-40.webp"
+  },
+  {
+    "id": 41,
+    "image": "images/properties/property-41.webp"
+  },
+  {
+    "id": 42,
+    "image": "images/properties/property-42.webp"
+  },
+  {
+    "id": 43,
+    "image": "images/properties/property-43.webp"
+  },
+  {
+    "id": 44,
+    "image": "images/properties/property-44.webp"
+  },
+  {
+    "id": 45,
+    "image": "images/properties/property-45.webp"
+  },
+  {
+    "id": 46,
+    "image": "images/properties/property-46.webp"
+  },
+  {
+    "id": 47,
+    "image": "images/properties/property-47.webp"
+  },
+  {
+    "id": 48,
+    "image": "images/properties/property-48.webp"
+  },
+  {
+    "id": 49,
+    "image": "images/properties/property-49.webp"
+  },
+  {
+    "id": 50,
+    "image": "images/properties/property-50.webp"
+  },
+  {
+    "id": 51,
+    "image": "images/properties/property-51.webp"
+  },
+  {
+    "id": 52,
+    "image": "images/properties/property-52.webp"
+  },
+  {
+    "id": 53,
+    "image": "images/properties/property-53.webp"
+  },
+  {
+    "id": 54,
+    "image": "images/properties/property-54.webp"
+  },
+  {
+    "id": 55,
+    "image": "images/properties/property-55.webp"
+  },
+  {
+    "id": 56,
+    "image": "images/properties/property-56.webp"
+  },
+  {
+    "id": 57,
+    "image": "images/properties/property-57.webp"
+  },
+  {
+    "id": 58,
+    "image": "images/properties/property-58.webp"
+  },
+  {
+    "id": 59,
+    "image": "images/properties/property-59.webp"
+  },
+  {
+    "id": 60,
+    "image": "images/properties/property-60.webp"
   }
 ]
