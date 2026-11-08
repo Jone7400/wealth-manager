@@ -1,34 +1,33 @@
-Wealth Manager V3.14.0 — 30 unique illustrated boats
+Wealth Manager V3.14.1 — corrected names, prices and descriptions for all 30 boats.
+Original item IDs and prestige values retained; owned items remain owned. Prices and maintenance rates have changed.
 
-boatphoto01: boat-18.jpg — Yellow Coastal Runabout
-boat1: boat-10.jpg — White Fishing Center Console
-boatphoto03: boat-20.jpg — Turquoise Working Trawler
-boatphoto04: boat-12.jpg — White Sport Bowrider
-boatphoto05: boat-11.jpg — Blue Offshore Fishing Boat
-boatphoto06: boat-16.jpg — Navy Cabin Cruiser
-boatphoto07: boat-03.jpg — White Weekend Cruiser
-boat2: boat-06.jpg — Orange Sport Cruiser
-boatphoto09: boat-29.jpg — Burgundy Sport Yacht
-boatphoto11: boat-17.jpg — Green Italian Speedboat
-boat3: boat-09.jpg — Black Luxury Day Yacht
-boatphoto12: boat-19.jpg — Navy Performance Sailing Yacht
-boatphoto13: boat-21.jpg — Red Power Catamaran
-boatphoto15: boat-26.jpg — White Sport Flybridge
-boat4: boat-02.jpg — Silver Luxury Flybridge
-boatphoto16: boat-27.jpg — White Grand Motor Yacht
-boatphoto17: boat-07.jpg — White Coastal Sailing Yacht
-boatphoto18: boat-13.jpg — Black Gold Megayacht
-boat5: boat-23.jpg — Sunset Palace Megayacht
-boatphoto19: boat-24.jpg — Golden Ocean Gigayacht
-boatnew01: boat-14.jpg — Navy Open Bowrider
-boatnew02: boat-22.jpg — Red Coastal Fishing Boat
-boatnew03: boat-05.jpg — Classic Cream Sailing Yacht
-boatnew04: boat-15.jpg — White Coastal Day Cruiser
-boatnew05: boat-28.jpg — Silver Flybridge Yacht
-boatnew06: boat-04.jpg — Cream Ocean Sailing Yacht
-boatnew07: boat-01.jpg — White Luxury Power Catamaran
-boatnew08: boat-08.jpg — Purple Tropical Yacht
-boatnew09: boat-30.jpg — Navy Gold Superyacht
-boatnew10: boat-25.jpg — Navy Royal Superyacht
-
-Existing 20 boat IDs, prices, upkeep and prestige retained. 10 new items added.
+boat1: boat-10.jpg — White Offshore Fishing Boat — $95,000 — annual maintenance 5.5%
+boat2: boat-06.jpg — Black and Red Performance Speedboat — $650,000 — annual maintenance 5.5%
+boat3: boat-09.jpg — Black Premium Day Cruiser — $1,100,000 — annual maintenance 5.5%
+boat4: boat-02.jpg — Navy Bluewater Sailing Yacht — $750,000 — annual maintenance 4.5%
+boat5: boat-23.jpg — Red Coastal Fishing Trawler — $95,000 — annual maintenance 7.0%
+boatphoto01: boat-18.jpg — Emerald Green Luxury Speedboat — $1,600,000 — annual maintenance 6.0%
+boatphoto03: boat-20.jpg — Navy Performance Sailing Yacht — $1,500,000 — annual maintenance 5.0%
+boatphoto04: boat-12.jpg — Blue and White Sport Bowrider — $55,000 — annual maintenance 5.0%
+boatphoto05: boat-11.jpg — Orange Sport Cabin Cruiser — $350,000 — annual maintenance 5.5%
+boatphoto06: boat-16.jpg — Navy and Gold Superyacht — $65,000,000 — annual maintenance 8.0%
+boatphoto07: boat-03.jpg — White Sport Cabin Cruiser — $145,000 — annual maintenance 5.0%
+boatphoto09: boat-29.jpg — Silver Luxury Motor Yacht — $12,000,000 — annual maintenance 7.5%
+boatphoto11: boat-17.jpg — White Coastal Cabin Cruiser — $190,000 — annual maintenance 5.5%
+boatphoto12: boat-19.jpg — Yellow Coastal Runabout — $22,000 — annual maintenance 5.0%
+boatphoto13: boat-21.jpg — Turquoise Working Fishing Trawler — $135,000 — annual maintenance 7.0%
+boatphoto15: boat-26.jpg — Navy Royal Megayacht — $220,000,000 — annual maintenance 9.0%
+boatphoto16: boat-27.jpg — White Luxury Flybridge Yacht — $4,500,000 — annual maintenance 7.0%
+boatphoto17: boat-07.jpg — White Coastal Sailing Yacht — $180,000 — annual maintenance 4.5%
+boatphoto18: boat-13.jpg — Burgundy Luxury Sport Cruiser — $1,250,000 — annual maintenance 6.0%
+boatphoto19: boat-24.jpg — Silver Sunset Megayacht — $320,000,000 — annual maintenance 9.0%
+boatnew01: boat-14.jpg — White Open Bowrider — $25,000 — annual maintenance 5.0%
+boatnew02: boat-22.jpg — Red Luxury Power Catamaran — $3,500,000 — annual maintenance 6.5%
+boatnew03: boat-05.jpg — Classic Wooden-Trim Sailboat — $250,000 — annual maintenance 4.5%
+boatnew04: boat-15.jpg — White Weekend Cabin Cruiser — $275,000 — annual maintenance 5.5%
+boatnew05: boat-28.jpg — White Sport Day Cruiser — $230,000 — annual maintenance 5.5%
+boatnew06: boat-04.jpg — Classic Cream Sailing Yacht — $390,000 — annual maintenance 4.5%
+boatnew07: boat-01.jpg — White Luxury Power Catamaran — $2,200,000 — annual maintenance 5.5%
+boatnew08: boat-08.jpg — Purple Luxury Motor Yacht — $9,500,000 — annual maintenance 7.5%
+boatnew09: boat-30.jpg — Black Explorer Gigayacht — $700,000,000 — annual maintenance 10.0%
+boatnew10: boat-25.jpg — Black and Gold Palace Megayacht — $500,000,000 — annual maintenance 9.5%

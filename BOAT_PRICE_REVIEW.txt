@@ -1,0 +1,33 @@
+Prices are fictional game-balance estimates based on the visible vessel type, size and luxury. They are not real-world appraisals.
+Existing IDs and prestige values retained. Annual maintenance uses each item’s price times its maintenance rate.
+
+boat-01.jpg | White Luxury Power Catamaran | $2,200,000
+boat-02.jpg | Navy Bluewater Sailing Yacht | $750,000
+boat-03.jpg | White Sport Cabin Cruiser | $145,000
+boat-04.jpg | Classic Cream Sailing Yacht | $390,000
+boat-05.jpg | Classic Wooden-Trim Sailboat | $250,000
+boat-06.jpg | Black and Red Performance Speedboat | $650,000
+boat-07.jpg | White Coastal Sailing Yacht | $180,000
+boat-08.jpg | Purple Luxury Motor Yacht | $9,500,000
+boat-09.jpg | Black Premium Day Cruiser | $1,100,000
+boat-10.jpg | White Offshore Fishing Boat | $95,000
+boat-11.jpg | Orange Sport Cabin Cruiser | $350,000
+boat-12.jpg | Blue and White Sport Bowrider | $55,000
+boat-13.jpg | Burgundy Luxury Sport Cruiser | $1,250,000
+boat-14.jpg | White Open Bowrider | $25,000
+boat-15.jpg | White Weekend Cabin Cruiser | $275,000
+boat-16.jpg | Navy and Gold Superyacht | $65,000,000
+boat-17.jpg | White Coastal Cabin Cruiser | $190,000
+boat-18.jpg | Emerald Green Luxury Speedboat | $1,600,000
+boat-19.jpg | Yellow Coastal Runabout | $22,000
+boat-20.jpg | Navy Performance Sailing Yacht | $1,500,000
+boat-21.jpg | Turquoise Working Fishing Trawler | $135,000
+boat-22.jpg | Red Luxury Power Catamaran | $3,500,000
+boat-23.jpg | Red Coastal Fishing Trawler | $95,000
+boat-24.jpg | Silver Sunset Megayacht | $320,000,000
+boat-25.jpg | Black and Gold Palace Megayacht | $500,000,000
+boat-26.jpg | Navy Royal Megayacht | $220,000,000
+boat-27.jpg | White Luxury Flybridge Yacht | $4,500,000
+boat-28.jpg | White Sport Day Cruiser | $230,000
+boat-29.jpg | Silver Luxury Motor Yacht | $12,000,000
+boat-30.jpg | Black Explorer Gigayacht | $700,000,000
