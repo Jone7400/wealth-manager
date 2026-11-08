@@ -1,0 +1,34 @@
+Wealth Manager V3.14.0 — 30 unique illustrated boats
+
+boatphoto01: boat-18.jpg — Yellow Coastal Runabout
+boat1: boat-10.jpg — White Fishing Center Console
+boatphoto03: boat-20.jpg — Turquoise Working Trawler
+boatphoto04: boat-12.jpg — White Sport Bowrider
+boatphoto05: boat-11.jpg — Blue Offshore Fishing Boat
+boatphoto06: boat-16.jpg — Navy Cabin Cruiser
+boatphoto07: boat-03.jpg — White Weekend Cruiser
+boat2: boat-06.jpg — Orange Sport Cruiser
+boatphoto09: boat-29.jpg — Burgundy Sport Yacht
+boatphoto11: boat-17.jpg — Green Italian Speedboat
+boat3: boat-09.jpg — Black Luxury Day Yacht
+boatphoto12: boat-19.jpg — Navy Performance Sailing Yacht
+boatphoto13: boat-21.jpg — Red Power Catamaran
+boatphoto15: boat-26.jpg — White Sport Flybridge
+boat4: boat-02.jpg — Silver Luxury Flybridge
+boatphoto16: boat-27.jpg — White Grand Motor Yacht
+boatphoto17: boat-07.jpg — White Coastal Sailing Yacht
+boatphoto18: boat-13.jpg — Black Gold Megayacht
+boat5: boat-23.jpg — Sunset Palace Megayacht
+boatphoto19: boat-24.jpg — Golden Ocean Gigayacht
+boatnew01: boat-14.jpg — Navy Open Bowrider
+boatnew02: boat-22.jpg — Red Coastal Fishing Boat
+boatnew03: boat-05.jpg — Classic Cream Sailing Yacht
+boatnew04: boat-15.jpg — White Coastal Day Cruiser
+boatnew05: boat-28.jpg — Silver Flybridge Yacht
+boatnew06: boat-04.jpg — Cream Ocean Sailing Yacht
+boatnew07: boat-01.jpg — White Luxury Power Catamaran
+boatnew08: boat-08.jpg — Purple Tropical Yacht
+boatnew09: boat-30.jpg — Navy Gold Superyacht
+boatnew10: boat-25.jpg — Navy Royal Superyacht
+
+Existing 20 boat IDs, prices, upkeep and prestige retained. 10 new items added.
