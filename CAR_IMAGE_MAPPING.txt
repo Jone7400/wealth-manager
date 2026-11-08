@@ -1,0 +1,32 @@
+Wealth Manager V3.13.9 – 30 distinct car images. Original store IDs and prices retained to preserve saved games.
+
+carphoto01: Silver City Hatchback
+carphoto02: Pearl Electric City Car
+carphoto03: Blue Executive Sedan
+carphoto04: Copper Compact SUV
+carphoto05: Blue Family Estate
+carphoto06: Two-Tone Vintage Coupe
+carphoto07: Silver Electric Crossover
+carphoto08: Silver Sport Fastback
+carphoto09: Blue Luxury Fastback
+carphoto10: Black Executive Limousine
+carphoto11: Red American Muscle Coupe
+carphoto12: British Racing Green Roadster
+carphoto13: White Hot Hatch GT
+carphoto14: Black Off-Road SUV
+carphoto15: Emerald Grand Touring Coupe
+carphoto16: Ivory Luxury Convertible
+carphoto17: Copper Vintage Racing Coupe
+carphoto18: Crimson Performance Coupe
+carphoto19: Blue Electric Sport Sedan
+carphoto20: Burgundy Ultra-Luxury Coupe
+carphoto21: Silver Classic Roadster
+carphoto22: Black and Gold Track Hypercar
+carphoto23: Black Ultra-Luxury SUV
+carphoto24: Blue Rear-Engine Sports Coupe
+car1: Orange Mid-Engine Sports Coupe
+car2: Classic Green Grand Tourer
+car3: Yellow V12 Supercar
+car4: Two-Tone Bespoke Luxury Coupe
+car5: Black and Blue Carbon Hypercar
+car6: Midnight Blue Luxury Grand Coupe
