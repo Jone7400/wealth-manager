@@ -1,0 +1,58 @@
+Wealth Manager V3.14.26 — Property Market
+51 selected distinct images from the 57 supplied.
+Excluded source contact sheet numbers: 13, 32, 33, 36, 41, 44.
+Prices are baseline in-game prices; market conditions adjust listing prices.
+
+property-new-01.jpg | Contemporary Office Campus | $48,000,000
+property-new-02.jpg | Historic Waterfront Marina | $65,000,000
+property-new-03.jpg | Alpine Ski Resort | $210,000,000
+property-new-04.jpg | Coastal Wind Energy Center | $180,000,000
+property-new-05.jpg | Historic City Theatre | $12,000,000
+property-new-06.jpg | Modern Medical Campus | $42,000,000
+property-new-07.jpg | Local Football Ground | $8,000,000
+property-new-08.jpg | Skyline Business District | $850,000,000
+property-new-09.jpg | Corner Bakery and Café | $85,000
+property-new-10.jpg | Urban Rental Apartments | $3,200,000
+property-new-11.jpg | Residential Courtyard Complex | $12,500,000
+property-new-12.jpg | Self-Storage Garage Complex | $2,400,000
+property-new-13.jpg | Furnished Rental Room | $1,000
+property-new-14.jpg | Modern Exhibition Hall | $75,000,000
+property-new-15.jpg | Desert Aerospace Launch Complex | $2,500,000,000
+property-new-16.jpg | Midrise Apartment Block | $5,800,000
+property-new-17.jpg | Riverside Watermill Workshop | $650,000
+property-new-18.jpg | Vertical Urban Farming Tower | $120,000,000
+property-new-19.jpg | Grand Metropolitan Opera House | $95,000,000
+property-new-20.jpg | Floating Residential Community | $32,000,000
+property-new-21.jpg | Coastal Water Park | $120,000,000
+property-new-22.jpg | Self-Service Car Wash | $145,000
+property-new-23.jpg | Ocean Research Campus | $320,000,000
+property-new-24.jpg | Cliffside Eco Lodge | $8,500,000
+property-new-25.jpg | Suburban Medical Offices | $2,400,000
+property-new-26.jpg | International Convention Center | $180,000,000
+property-new-27.jpg | Suburban Rental Cottage | $95,000
+property-new-28.jpg | Countryside Farm Estate | $180,000
+property-new-29.jpg | Private Island Resort | $1,200,000,000
+property-new-30.jpg | Alpine Event Center | $280,000,000
+property-new-31.jpg | High Street Retail Plaza | $4,500,000
+property-new-32.jpg | Private Harbor Terminal | $65,000,000
+property-new-33.jpg | Luxury Vineyard Estate | $85,000,000
+property-new-34.jpg | Roadside Diner Property | $140,000
+property-new-35.jpg | University Campus | $350,000,000
+property-new-36.jpg | International Airport Terminal | $850,000,000
+property-new-37.jpg | Boutique Hotel Estate | $18,000,000
+property-new-38.jpg | Botanical Garden Complex | $18,000,000
+property-new-39.jpg | Neighborhood Restaurant Building | $275,000
+property-new-40.jpg | Roadside Motel | $420,000
+property-new-41.jpg | Neighborhood Hardware Store | $350,000
+property-new-42.jpg | Three-Unit Retail Plaza | $475,000
+property-new-43.jpg | Modern Office Building | $12,000,000
+property-new-44.jpg | Small High Street Shop | $65,000
+property-new-45.jpg | Geothermal Energy Facility | $420,000,000
+property-new-46.jpg | Horse Racing Venue | $95,000,000
+property-new-47.jpg | Retail Shopping Arcade | $3,500,000
+property-new-48.jpg | Desert Research Observatory | $45,000,000
+property-new-49.jpg | Waterfront Convention Terminal | $650,000,000
+property-new-50.jpg | Underground Parking Garage | $650,000
+property-new-51.jpg | Private Medical Clinic | $2,400,000
+
+Upload index.html and all property-new-XX.jpg files without deleting old game assets.
